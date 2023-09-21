@@ -1,7 +1,11 @@
 package com.nathan;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+    }
+
+    public static String hello() {
+        return  "Hello World!" ;
     }
 }
