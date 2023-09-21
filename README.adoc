@@ -4,6 +4,7 @@
 
 == Contexte
 
+Nathan Pagnucco
 Le but de ce TD/TP est de vous montrer des exemples de traces formelles entre les différents artefacts de votre application (des exigences jusqu'au code).
 
 .Les principaux artefacts qui nous intéressent en  R3-03 (Inspiré de https://github.com/xblanc33/QualiteDev/[ici])
